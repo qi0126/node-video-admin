@@ -15,7 +15,7 @@
 > 只有超级管理员才可以删除文章，其他登录之后会自动注册，可以上传信息和修改信息
 
 ```
-git clone https://github.com/wclimb/video-admin.git
+git clone https://github.com/qi0126/node-video-admin.git
 
 cd video-admin
 
